@@ -16,11 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Git Config   5 mins          ███████████████▓░░░░░░░░░   62.31 %
-Markdown     2 mins          ████████▒░░░░░░░░░░░░░░░░   33.63 %
-Git          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Git Config   51 mins         █████████████████░░░░░░░░   67.85 %
+Markdown     10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+JSON         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Bash         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
