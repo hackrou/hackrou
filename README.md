@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
 Git Config   51 mins         █████████████████░░░░░░░░   67.85 %
 Markdown     10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
